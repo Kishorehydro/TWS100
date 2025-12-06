@@ -71,14 +71,13 @@ Click “**Load Data**” to load all the data load automatically.
 ### 5.3 Temporal Options
 
 <img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/50f620f7-f057-480b-b8a9-c99fef6fc722" />
-
-<img width="2000" height="768" alt="image" src="https://github.com/user-attachments/assets/3549f217-6fd5-498b-ab41-2d0b698f97ff" />
+<img width="2000" height="769" alt="image" src="https://github.com/user-attachments/assets/95072627-f7e7-48d1-92da-2297316746fe" />
 
 ### 5.4 Spatial Plot Module
 
 Basin Map Mode: Shows clipped spatial anomalies for the selected basin.
 <img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/6e2b11a9-d509-4ea4-8f33-42e2660e94cb" />
-<img width="2000" height="769" alt="image" src="https://github.com/user-attachments/assets/95072627-f7e7-48d1-92da-2297316746fe" />
+<img width="1209" height="1196" alt="image" src="https://github.com/user-attachments/assets/a887f6d6-dfc9-4ccc-ad41-db1120b267b0" />
 
 ### 5.5 Regional Mean Module
 
