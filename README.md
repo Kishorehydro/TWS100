@@ -1,13 +1,13 @@
 # TWS100: A GUI application for centennial variations in terrestrial water storage 
-TWS100 is a MATLAB-based user-friendly platform for GRACE/GRACE-FO-based terrestrial water storage (TWS) reconstruction over a century, analyses, comparison with previous reconstruction datasets, spatiotemporal trends and variability, SHAP-based sensitivity assessment, and validation with the ground-based observations.
+**TWS100** is a MATLAB-based user-friendly graphical user interface platform for GRACE/GRACE-FO-based terrestrial water storage (TWS) reconstruction over a century, analyses, comparison with previous reconstruction datasets, spatiotemporal trends and variability, SHAP-based sensitivity assessment, and validation with the ground-based observations.
 
 ## 1. Introduction
 
-**TWS100** is a MATLAB-based global graphical user interface for GRACE/GRACE-FO TWSA analysis, reconstruction, evaluation, trend detection, and SHAP-driven sensitivity assessment. It supports any basin worldwide, with global river basins having catchment areas of more than 63000 sq. km., boundaries and continental-scale data coverage enabling hydrological assessment across climate zones, regions, and scales.
+*TWS100* supports any basin worldwide, with global river basins having catchment areas of more than 63000 sq. km., boundaries, and continental-scale data coverage enabling hydrological assessment across climate zones, regions, and scales.
 
 Global river basin datasets for basin selection, GRACE/GRACE-FO mascon products (JPL, CSR, GSFC), Multiple reconstruction datasets (Humphrey et al., 2019; Li et al., 2021; Deng et al., 2023; Palazzoli et al., 2025; and Mandal et al.,2025), Built-in machine learning reconstruction tools,	SHAP-based explainable sensitivity analysis, and Groundwater storage anomaly validation
 
-The interface requires **no programming experience**, and all workflows operate on **any basin worldwide**.
+The interface requires **minimal to no programming experience**, and all workflows operate on **any basin worldwide**.
 ## 2. System Requirements
 **MATLAB Version**
 
@@ -43,7 +43,7 @@ TWS100 supports:
 ### 4.1 GRACE/GRACE-FO Mascon Products (NetCDF)
 JPL RL06M; CSR RL06M; GSFC RL06M
 ### 4.2 Reconstruction Datasets (NetCDF)
-Humphrey et al. 2019; Li et al., 2021; Deng et al., 2023; Palazzoli et al., 2025; Mandal et al.,2025
+Five reconstruction datasets, namely, Humphrey et al. 2019 (H19); Li et al., 2021 (L21); Deng et al., 2023 (D23); Palazzoli et al., 2025 (P25); Mandal et al.,2025 (M25), are used for comparison of our reconstructed TWSA. 
 ### 4.3 Basin Boundaries (shapefile: .shp)
 •	HydroBASINS Level 5–7
 ### 4.4 Other Hydro-meteorological Data
