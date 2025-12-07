@@ -88,7 +88,11 @@ Basin Map Mode: Shows clipped spatial anomalies for the selected basin.
 
 ## 6. Analytical Modules
 
-### 6.1 Trend Analysis Module
+### 6.1 Groundwater Storage Anomaly Validation Module
+<img width="2000" height="376" alt="image" src="https://github.com/user-attachments/assets/50cf9535-4a9c-490f-8005-5e89951b6780" />
+<img width="2016" height="843" alt="image" src="https://github.com/user-attachments/assets/aff60e37-7191-4763-870b-b434e6bdde25" />
+
+### 6.2 Trend Analysis Module
 For using one of these or all the trend please plot at first then check on this option/options. (Should be tempotal plot)
 
 <img width="2000" height="375" alt="image" src="https://github.com/user-attachments/assets/8dd0d8ef-379b-4817-98d4-2a1a5330445f" />
@@ -97,13 +101,13 @@ For using one of these or all the trend please plot at first then check on this 
 
 <img width="1911" height="1008" alt="image" src="https://github.com/user-attachments/assets/8f293ca4-d671-40ce-8db5-988cb32b345e" />
 
-### 6.2 Evaluation Metrics
+### 6.3 Evaluation Metrics
 
 <img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/a81fc7f0-dccc-40d6-9dde-8f4d99dfd11e" />
 
 All metrics will be calculated for the plotted variable (selected time period)
 
-### 6.3 Reconstruction Module
+### 6.4 Reconstruction Module
 
 Internal Reconstruction Models
 
@@ -113,7 +117,7 @@ Internal Reconstruction Models
 
 •	Artificial Neural Network
 
-### 6.4 SHAP-Based Sensitivity Module
+### 6.5 SHAP-Based Sensitivity Module
 
 This module quantifies how much each dataset or model variable contributes to TWSA or reconstruction output. Details about this will be available only after performing reconstruction.
 <img width="2000" height="375" alt="image" src="https://github.com/user-attachments/assets/63be691d-e998-4910-8807-410440f0791f" />
