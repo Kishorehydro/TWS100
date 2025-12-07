@@ -1,5 +1,5 @@
-# TWS100
-A MATLAB-based global platform for GRACE/GRACE-FO TWSA analysis, reconstruction evaluation, trend detection, and SHAP-driven sensitivity assessment featuring continental-scale datasets and global basin coverage.
+# TWS100: A GUI application for centennial variations in terrestrial water storage 
+TWS100 is a MATLAB-based user-friendly platform for GRACE/GRACE-FO-based terrestrial water storage (TWS) reconstruction over a century, analyses, comparison with previous reconstruction datasets, spatiotemporal trends and variability, SHAP-based sensitivity assessment, and validation with the ground-based observations.
 
 ## 1. Introduction
 
