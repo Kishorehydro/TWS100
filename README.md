@@ -71,18 +71,15 @@ Click “**Load Data**” to load all the data load automatically.
 ### 5.3 Temporal Options
 
 <img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/50f620f7-f057-480b-b8a9-c99fef6fc722" />
-<img width="2000" height="769" alt="image" src="https://github.com/user-attachments/assets/95072627-f7e7-48d1-92da-2297316746fe" />
 
 ### 5.4 Spatial Plot Module
 
 Basin Map Mode: Shows clipped spatial anomalies for the selected basin.
 <img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/6e2b11a9-d509-4ea4-8f33-42e2660e94cb" />
-<img width="1209" height="1196" alt="image" src="https://github.com/user-attachments/assets/a887f6d6-dfc9-4ccc-ad41-db1120b267b0" />
 
 ### 5.5 Regional Mean Module
 
 <img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/332e3f44-635d-44e8-b948-75377787de9f" />
-<img width="1883" height="1181" alt="image" src="https://github.com/user-attachments/assets/ff4cf586-d8c5-4805-80a9-f5c87ac81299" />
 
 **Plot Options:** GRACE (JPL/CSR/GSFC), Reconstruction datasets
 
@@ -90,16 +87,11 @@ Basin Map Mode: Shows clipped spatial anomalies for the selected basin.
 
 ### 6.1 Groundwater Storage Anomaly Validation Module
 <img width="2000" height="376" alt="image" src="https://github.com/user-attachments/assets/50cf9535-4a9c-490f-8005-5e89951b6780" />
-<img width="2016" height="843" alt="image" src="https://github.com/user-attachments/assets/aff60e37-7191-4763-870b-b434e6bdde25" />
 
 ### 6.2 Trend Analysis Module
 For using one of these or all the trend please plot at first then check on this option/options. (Should be tempotal plot)
 
 <img width="2000" height="375" alt="image" src="https://github.com/user-attachments/assets/8dd0d8ef-379b-4817-98d4-2a1a5330445f" />
-
-**Available Methods:** Linear regression, Polynomial (2nd order), LOESS smoothing, Sen’s slope
-
-<img width="1911" height="1008" alt="image" src="https://github.com/user-attachments/assets/8f293ca4-d671-40ce-8db5-988cb32b345e" />
 
 ### 6.3 Evaluation Metrics
 
@@ -121,7 +113,6 @@ Internal Reconstruction Models
 
 This module quantifies how much each dataset or model variable contributes to TWSA or reconstruction output. Details about this will be available only after performing reconstruction.
 <img width="2000" height="375" alt="image" src="https://github.com/user-attachments/assets/63be691d-e998-4910-8807-410440f0791f" />
-<img width="1407" height="1122" alt="image" src="https://github.com/user-attachments/assets/aa054b0a-84a6-4808-b8d4-45a240d160e1" />
 
 ## 7. Output and Export Tools
 <img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/69b06cda-6d3d-4c2a-b91e-569bfd5fd754" />
