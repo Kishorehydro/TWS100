@@ -65,7 +65,7 @@ Use the select basin button
 All analyses automatically clip data to the selected basin.
 ### 5.2 Dataset loading button
 
-Click “**Load Data**” to load all the data load automatically.
+Click “**Load Data**” to load all the data automatically.
 <img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/4215a51e-5692-4b0e-b8a4-53185948bda2" />
 
 ## 6. Analytical Modules
