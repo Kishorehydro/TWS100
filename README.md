@@ -68,38 +68,9 @@ All analyses automatically clip data to the selected basin.
 Click “**Load Data**” to load all the data load automatically.
 <img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/4215a51e-5692-4b0e-b8a4-53185948bda2" />
 
-### 5.3 Temporal Options
-
-<img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/50f620f7-f057-480b-b8a9-c99fef6fc722" />
-
-### 5.4 Spatial Plot Module
-
-Basin Map Mode: Shows clipped spatial anomalies for the selected basin.
-<img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/6e2b11a9-d509-4ea4-8f33-42e2660e94cb" />
-
-### 5.5 Regional Mean Module
-
-<img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/332e3f44-635d-44e8-b948-75377787de9f" />
-
-**Plot Options:** GRACE (JPL/CSR/GSFC), Reconstruction datasets
-
 ## 6. Analytical Modules
 
-### 6.1 Groundwater Storage Anomaly Validation Module
-<img width="2000" height="376" alt="image" src="https://github.com/user-attachments/assets/50cf9535-4a9c-490f-8005-5e89951b6780" />
-
-### 6.2 Trend Analysis Module
-For using one of these or all the trend please plot at first then check on this option/options. (Should be tempotal plot)
-
-<img width="2000" height="375" alt="image" src="https://github.com/user-attachments/assets/8dd0d8ef-379b-4817-98d4-2a1a5330445f" />
-
-### 6.3 Evaluation Metrics
-
-<img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/a81fc7f0-dccc-40d6-9dde-8f4d99dfd11e" />
-
-All metrics will be calculated for the plotted variable (selected time period)
-
-### 6.4 Reconstruction Module
+### 6.1 Reconstruction Module
 
 Internal Reconstruction Models
 
@@ -109,7 +80,38 @@ Internal Reconstruction Models
 
 •	Artificial Neural Network
 
-### 6.5 SHAP-Based Sensitivity Module
+### 6.2 Comparison
+
+#### 6.2.1 Temporal Options
+
+<img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/50f620f7-f057-480b-b8a9-c99fef6fc722" />
+
+#### 6.2.2 Spatial Plot Module
+
+Basin Map Mode: Shows clipped spatial anomalies for the selected basin.
+<img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/6e2b11a9-d509-4ea4-8f33-42e2660e94cb" />
+
+#### 6.2.3 Regional Mean Module
+
+<img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/332e3f44-635d-44e8-b948-75377787de9f" />
+
+**Plot Options:** GRACE (JPL/CSR/GSFC), Reconstruction datasets
+
+### 6.3 Groundwater Storage Anomaly Validation Module
+<img width="2000" height="376" alt="image" src="https://github.com/user-attachments/assets/50cf9535-4a9c-490f-8005-5e89951b6780" />
+
+### 6.4 Trend Analysis Module
+For using one of these or all the trend please plot at first then check on this option/options. (Should be tempotal plot)
+
+<img width="2000" height="375" alt="image" src="https://github.com/user-attachments/assets/8dd0d8ef-379b-4817-98d4-2a1a5330445f" />
+
+### 6.5 Evaluation Metrics
+
+<img width="2000" height="374" alt="image" src="https://github.com/user-attachments/assets/a81fc7f0-dccc-40d6-9dde-8f4d99dfd11e" />
+
+All metrics will be calculated for the plotted variable (selected time period)
+
+### 6.6 SHAP-Based Sensitivity Module
 
 This module quantifies how much each dataset or model variable contributes to TWSA or reconstruction output. Details about this will be available only after performing reconstruction.
 <img width="2000" height="375" alt="image" src="https://github.com/user-attachments/assets/63be691d-e998-4910-8807-410440f0791f" />
