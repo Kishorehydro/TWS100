@@ -3,7 +3,7 @@
 
 ## 1. Introduction
 
-*TWS100* supports any basin worldwide, with global river basins having catchment areas of more than 63000 sq. km., boundaries, and continental-scale data coverage enabling hydrological assessment across climate zones, regions, and scales.
+*TWS100* supports any basin worldwide, with global river basins having catchment areas of more than 63000 sq. km., boundaries, and continental-scale data coverage enabling hydrological assessment across climate zones, regions, and scales. Available in https://zenodo.org/records/17810565?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjljNjZhNWJiLWZjYTktNDQyZC1iZjkyLTY0OTFjZmRmMDBkYyIsImRhdGEiOnt9LCJyYW5kb20iOiI0MGMxZjEzMDIzYTk4MWQxNjA2MzBmY2UzZWJlYWYwMSJ9.ZgILwX9LKdVxvZSyWxexAnPwOeb4lvwA-SpmVp0OUvUybXY57Kg1YZeorPMvtHHEn0uYejTKK2a30-iBdg65Eg 
 
 Global river basin datasets for basin selection, GRACE/GRACE-FO mascon products (JPL, CSR, GSFC), Multiple reconstruction datasets (Humphrey et al., 2019; Li et al., 2021; Deng et al., 2023; Palazzoli et al., 2025; and Mandal et al.,2025), Built-in machine learning reconstruction tools,	SHAP-based explainable sensitivity analysis, and Groundwater storage anomaly validation
 
@@ -26,10 +26,9 @@ The interface requires **minimal to no programming experience**, and all workflo
 •	Deep Learning Toolbox (optional, for ANN reconstructions)
 
 ## 3. Installation
-### 3.1 Download or Clone the Repository
-Open a terminal or command prompt:
+### 3.1 Download the Repository
+Download all the files and keep all the data in a foler name 'Data' and keep the TWS100.mlapp in the same folder Data folder is saved, then run the TWS100.mlapp
 
-gh repo clone Kishorehydro/TWS100
 ### 3.2 Add the Folder to MATLAB Path
 Start MATLAB and run:
 
