@@ -27,7 +27,8 @@ The interface requires **minimal to no programming experience**, and all workflo
 
 ## 3. Installation
 ### 3.1 Download the Repository
-Download all the files and keep all the data in a foler name 'Data' and keep the TWS100.mlapp in the same folder Data folder is saved, then run the TWS100.mlapp
+Download all the files and keep all the data in a folder named 'Data', and keep the TWS100.mlapp in the same folder where the Data folder is saved, then run the TWS100.mlapp
+<img width="1692" height="312" alt="image" src="https://github.com/user-attachments/assets/df11d6a1-89fa-48ef-b323-e75d346f2bf0" />
 
 ### 3.2 Add the Folder to MATLAB Path
 Start MATLAB and run:
